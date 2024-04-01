@@ -1,6 +1,7 @@
 // Includes
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include "domains.h"
 
 // Main function 
