@@ -19,7 +19,7 @@ int main(void) {
     //if (strcmp(user_input,country_codes[237].domain)==0){
     //    printf(country_codes[237].country);
     //}
-    if (user_input[0] != "."){
+    if (user_input[0] != '.'){
         printf("Error! The first character entered should be a .");
         exit(0);
     }
